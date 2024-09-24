@@ -198,11 +198,13 @@ header {
 
 .stats i {
     font-size: 40px;
+    margin-top: 40px;
 }
 
 .stats p {
     width: 140px;
     text-align: center;
+    margin-top: 20px;
 }
 
 .bx {
